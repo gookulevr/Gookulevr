@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Gookul EVR
 
-<!--
-**gookulevr/Gookulevr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Former UX Designer with 6+ years of experience, now transitioning into Cloud DevOps Engineering. I bring a user-first mindset to everything I build.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I'm working on
+Currently upskilling in Cloud & DevOps — learning new tools, building projects, and making the switch from design to engineering.
+
+## 🛠️ Tools & Technologies
+
+**Cloud & Infrastructure**
+`AWS` `Docker` `Kubernetes` `Terraform` `Ansible`
+
+**CI/CD & Version Control**
+`Git` `GitHub`
+
+**Monitoring & Observability**
+`Prometheus` `Grafana`
+
+## 📬 Reach me
+- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/gookul-evr/))

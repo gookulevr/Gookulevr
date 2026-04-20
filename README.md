@@ -18,5 +18,3 @@ Currently upskilling in Cloud & DevOps — learning new tools, building projects
 **Monitoring & Observability**
 `Prometheus` `Grafana`
 
-## 📬 Reach me
-- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/gookul-evr/))

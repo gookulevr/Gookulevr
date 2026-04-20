@@ -13,7 +13,7 @@ Currently upskilling in Cloud & DevOps — learning new tools, building projects
 `AWS` `Docker` `Kubernetes` `Terraform` `Ansible`
 
 **CI/CD & Version Control**
-`Git` `GitHub`
+`Git` `GitHub` `Jenkins` 
 
 **Monitoring & Observability**
 `Prometheus` `Grafana`
